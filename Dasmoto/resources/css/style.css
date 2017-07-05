@@ -1,0 +1,41 @@
+html {
+  font-family: Helvetica;
+}
+
+.pageHeader {
+  text-align: center;
+  font-size: 70px;
+  color:khaki;
+  background-image: url('../images/pattern.jpeg');
+  font-weight: bold;
+}
+
+.product {
+
+}
+
+.sectionHeader {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+.imgProduct {
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+.teal {
+  background-color: mediumspringgreen;
+}
+
+.pink {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
